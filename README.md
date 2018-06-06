@@ -17,3 +17,7 @@ Filler text
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+### Copyright
+
+Copyright 2018 git.training
