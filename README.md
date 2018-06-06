@@ -18,6 +18,8 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+Please fork this repository
+
 ### Copyright
 
 Copyright 2018 git.training
